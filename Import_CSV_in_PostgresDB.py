@@ -1,5 +1,5 @@
 '''
-Title: Import a CSV file to public schema of your postgres database
+Title: Import a CSV file as table to your postgres database
 Author: Shahriar Rahman
 Email: shahriar.env12@gmail.com
 @Credit: please acknowledge/provide credits if this script is useful for you. Thanks!
