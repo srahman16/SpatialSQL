@@ -1,2 +1,2 @@
 # SpatialSQL
-All the scripts to automate Spatial SQL Queries
+All the scripts to automate Spatial SQL queries.
